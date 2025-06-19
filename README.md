@@ -45,7 +45,7 @@ The system adopts a three-layer architecture, achieving complete decoupling of h
 # Core File Descriptions                           
     Application/App_adaptor.c	       # Provides user API interfaces, including initialization, transmission, and reception  
     Middleware/Middle_adaptor.c	       # Hardware driver adapter, bridges application and driver layers  
-    Driver/DEI1016/Driver_dei1016.c	   # Low-level driver implementation for DEI1016 chip  
+    Driver/DEI1016/Driver_dei1016.c	       # Low-level driver implementation for DEI1016 chip  
     Config/Arinc_type.h	               # Defines core data structures and enumerations for the project
 ***
 
