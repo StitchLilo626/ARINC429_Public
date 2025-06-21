@@ -6,12 +6,12 @@ This project implements a comprehensive ARINC 429 avionics data acquisition syst
 The system adopts a three-layer architecture, achieving complete decoupling of hardware drivers, middleware abstraction, and application interfaces. It supports plug-and-play for multiple avionics bus chips such as DEI1016/HI3593/HI8588, providing reliable data acquisition and transmission capabilities.
 ***
 
-# Project Highlights
-🛠️ **Hardware Abstraction Architecture**: Three-layer design decouples hardware operations from application logic  
-✈️ **Aviation Protocol Support**: Full ARINC 429 protocol implementation  
-⚡ **High-Performance Design**: Register-level optimized operations  
-🔒 **Reliability Assurance**: Rigorous error handling mechanisms  
-🔄 **RTOS Integration**: RT-Thread real-time operating system support
+# Project Highlights  
+**Hardware Abstraction Architecture**: Three-layer design decouples hardware operations from application logic  
+**Aviation Protocol Support**: Full ARINC 429 protocol implementation  
+**High-Performance Design**: Register-level optimized operations  
+**Reliability Assurance**: Rigorous error handling mechanisms  
+**RTOS Integration**: RT-Thread real-time operating system support
 ***
 # Code Structure
     
